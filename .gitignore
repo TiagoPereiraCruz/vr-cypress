@@ -1,0 +1,4 @@
+node_modules
+cypress/videos/vr.feature.mp4
+cypress/.DS_Store
+.DS_Store
